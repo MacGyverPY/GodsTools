@@ -4,7 +4,7 @@
     "short" : "scans for irregularities in cogs",
     "description" : "scans the currently loaded and unloaded cogs, checks if they are enabled or disabled, attempts to enable them if they are disabled, and shows the reason why they couldn't be enabled along with possible solutions, you can follow the steps below. help @ www.HEVN.cc",
     "install_msg" : "Thanks for installing GodsTools.",
-    "requirements" : ["none-yet"],
+    "requirements" : [""],
     "tags" : ["emoji", "big", "huge"],
     "permissions" : ["attach_files"],
     "end_user_data_statement": "This cog does not persistently store data or metadata about users."
