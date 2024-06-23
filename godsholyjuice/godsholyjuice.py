@@ -50,5 +50,5 @@ class GodsHolyJuice(commands.Cog):
                 await ctx.send(f"Cog: {cog_name} - Error: {str(e)}")
                 # Optionally, you can provide possible solutions or log the error for further analysis
 
-def setup(bot: Red):
+def setup(bot):
     bot.add_cog(GodsHolyJuice(bot))
