@@ -1,6 +1,7 @@
 {
     "name" : "godsholyjuice",
     "author" : ["GOD3128"],
+    "Made by": ["GOD3128"],
     "short" : "scans for irregularities in cogs",
     "description" : "scans the currently loaded and unloaded cogs, checks if they are enabled or disabled, attempts to enable them if they are disabled, and shows the reason why they couldn't be enabled along with possible solutions, you can follow the steps below. help @ www.HEVN.cc",
     "install_msg" : "Thanks for installing GodsTools.",
