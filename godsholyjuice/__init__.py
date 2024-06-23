@@ -1,4 +1,4 @@
-from .godsholyjuice import CogScanner
+from .godsholyjuice import godsholyjuice
 
 def setup(bot):
-    bot.add_cog(CogScanner(bot))
+    bot.add_cog(godsholyjuice(bot))
